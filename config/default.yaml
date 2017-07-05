@@ -1,0 +1,7 @@
+title: Dashboard
+port: 80
+kue:
+  connection:
+    redis:
+      host: redis
+      port: 6379
